@@ -11,4 +11,3 @@ Peter Hart, Nils Nilsson and Bertram Raphael of Stanford Research Institute (now
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/ySN5Wnu88nE.jpg)](https://www.youtube.com/watch?v=ySN5Wnu88nE "A* Algorithm")
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/GuCzYxHa7iA/0.jpg)](https://www.youtube.com/watch?v=GuCzYxHa7iA "A* Search")
