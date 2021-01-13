@@ -4,8 +4,6 @@ A* algorithm predicts the next steps by using heuristic. A* is an informed searc
 
 At each iteration of its main loop, A* needs to determine which of its paths to extend. It does so based on the cost of the path and an estimate of the cost required to extend the path all the way to the goal. Since A* uses heuristic, it can be called an artifical intelligence algorithm.
 
-1. test
-
-...Peter Hart, Nils Nilsson and Bertram Raphael of Stanford Research Institute (now SRI International) first published the algorithm in 1968. It can be seen as an extension of Edsger Dijkstra's 1959 algorithm.
+  Peter Hart, Nils Nilsson and Bertram Raphael of Stanford Research Institute (now SRI International) first published the algorithm in 1968. It can be seen as an extension of Edsger Dijkstra's 1959 algorithm.
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/GuCzYxHa7iA/0.jpg)](https://www.youtube.com/watch?v=GuCzYxHa7iA "A* Search")
