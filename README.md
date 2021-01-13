@@ -7,4 +7,6 @@ At each iteration of its main loop, A* needs to determine which of its paths to 
 ## Creators
 Peter Hart, Nils Nilsson and Bertram Raphael of Stanford Research Institute (now SRI International) first published the algorithm in 1968. It can be seen as an extension of Edsger Dijkstra's 1959 algorithm.
 
+## Videos
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/ySN5Wnu88nE.jpg)](https://www.youtube.com/watch?v=ySN5Wnu88nE)
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/GuCzYxHa7iA/0.jpg)](https://www.youtube.com/watch?v=GuCzYxHa7iA "A* Search")
